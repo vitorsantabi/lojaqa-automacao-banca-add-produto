@@ -1,7 +1,7 @@
 # Banca de Testes E2E & API - LojaQA - Módulo 10
 
 **Turma:** FAP 2026, Prof. Alison Melo  
-**Equipe:** preencher nomes  
+
 **Data:** 17/11/2026
 
 ## Objetivo
